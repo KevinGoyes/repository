@@ -38,8 +38,8 @@ En este repositorio podrás encontrar:
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-- **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- **Email:** kevinfgoyes@gmail.com
+- **LinkedIn:** (https://co.linkedin.com/in/kevin-felipe-goyes-alfonso-640570189)
 
 ---
 
